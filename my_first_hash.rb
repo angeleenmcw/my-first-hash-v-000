@@ -1,6 +1,5 @@
 def my_hash
- your_hash = 
- {
+ your_hash = {
  "pineapple => "best fruit",
   "peanuts" => "I am not allergic",
   "Mickey Mouse" => "favorite character so far" }
