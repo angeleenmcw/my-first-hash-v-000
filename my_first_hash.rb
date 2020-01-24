@@ -5,7 +5,6 @@ def my_hash
   "Mickey Mouse" => "favorite character so far"
   }
 end
-end 
 
 
 def shipping_manifest
