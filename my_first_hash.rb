@@ -2,11 +2,9 @@ def my_hash
  your_hash = {
  
   "pineapple => "best fruit",
-  "peanuts" => "wonderful and informative piece of reading",
-  "Moby Dick" => "a novel by my good friend, Herman Melville"
- 
-}
-  
+  "peanuts" => "I am not allergic",
+  "Mickey Mouse" => "favorite character so far"
+  }
 end
 
 
